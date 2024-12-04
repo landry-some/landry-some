@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there! Welcome to my GitHub Profile
 
-<!--
-**landry-some/landry-some** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Landry Some – a passionate developer, problem solver, and lifelong learner. I enjoy building innovative solutions, collaborating on projects, and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🔭 **Currently working on**: Sr Go/Web Developer
+- 🌱 **Currently learning**: AI
+- 📫 **How to reach me**: +1 678 666 0093
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My Tech Stack
+Here are some tools, languages, and frameworks I use:
+- **Languages**: Golang, Python, Javascript
+- **Frameworks/Libraries**: React, Fiber, Django/Flask
+- **Tools/Platforms**: Git, Docker, AWS, Kubernetes
+
+
+Thanks for visiting my profile! 🚀
