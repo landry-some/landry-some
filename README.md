@@ -5,7 +5,7 @@ I'm Landry Some – a passionate developer, problem solver, and lifelong learner
 ## 🌟 About Me
 - 🔭 **Currently working on**: Sr Go/Web Developer
 - 🌱 **Currently learning**: AI
-- 📫 **How to reach me**: +1 678 666 0093
+
 
 ---
 
