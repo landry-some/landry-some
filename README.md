@@ -14,7 +14,6 @@ A senior <b>Golang</b> and <b>React</b>-driven full-stack engineer with 9+ years
 
 - Email: landrysome007@gmail.com
 - Phone: 678-258-9665
-- Linkedin: https://www.linkedin.com/in/lsome
 
 ## 🚀 My Tech Stack
 Here are some tools, languages, and frameworks I use:
